@@ -52,5 +52,5 @@ To build and run using Docker:
 docker build -t my-app .
 
 # Run the container
-docker run -p 3000:3000 my-app
+docker run -p 3000:3000 ghcr.io/gabtec/xaropes.pt:latest
 ```
